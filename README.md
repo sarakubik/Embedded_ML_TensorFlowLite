@@ -7,6 +7,6 @@ Edge Impulse creates TensorFlow Lite machine learning models that are intended t
 
 Edge Impulse has a nice gui and I'm sure is more robust than what this Coursera instructor talks about. You can certainly code TensorFlow lite in Python manually; Edge Impulse does this for you. 
 
-The Coursera instructor is a bit stiff in his delivery and there is a LOT of theory in the course. But he does demo using Edge Impulse for one main project. 
+The Coursera instructor is a bit stiff in his delivery and there is a LOT of theory in the course. But he does demo using Edge Impulse for one main project. Please note that it's pretty clear Edge Impulse has changed their GUI and other software features because the instructor's demo of Edge Impulse is, at times, different than what you will see when you use Edge Impulse.
 
 He also mentioned https://netron.app/, which is a cool site that shows a visual of the model Edge Impulse builds.
